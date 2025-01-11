@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roynald Oktaviano Kalele!
 
-![Roynald Oktaviano Kalele](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub+Profile)
+![Roynald Oktaviano Kalele]
 
 ## About Me
 I'm a passionate **software developer** and **tech enthusiast** with a love for solving problems and building impactful solutions. I specialize in developing **web applications**, crafting seamless user experiences, and exploring the latest technologies.
@@ -15,8 +15,8 @@ I'm a passionate **software developer** and **tech enthusiast** with a love for 
 ## 💻 My Skills
 Here are some of the technologies and tools I work with:
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, Prisma
-- **Database**: PostgreSQL, MySQL, MongoDB
+- **Backend**: Node.js, Prisma
+- **Database**: PostgreSQL, MySQL
 - **Other Tools**: Git, Docker, Figma
 
 ---
@@ -25,17 +25,11 @@ Here are some of the technologies and tools I work with:
 You can find me on:
 - [🌐 Portfolio Website](#) (coming soon!)
 - [📧 Email](mailto:roynald.oktaviano@example.com)
-- [💼 LinkedIn](https://www.linkedin.com/in/roynald-oktaviano-kalele/)
-- [🐦 Twitter](https://twitter.com/roynaldkalele) 
+- [💼 LinkedIn](https://www.instagram.com/roynald.ok/)
+- [🐦 Instagram](https://twitter.com/roynaldkalele) 
 
 ---
 
-## 📊 GitHub Stats
-![Roynald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roynald-kalele&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roynald-kalele&layout=compact&theme=radical)
-
----
 
 ## 🌟 Fun Quote
 > "The best way to predict the future is to create it." – Alan Kay
