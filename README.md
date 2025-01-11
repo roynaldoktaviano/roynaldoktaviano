@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 ## 📫 How to Reach Me
 You can find me on:
 - [🌐 Portfolio Website](#) (coming soon!)
-- [📧 Email](mailto:roynald.oktaviano@example.com)
+- [📧 Email](mailto:roynald.okta@gmail.com)
 - [💼 LinkedIn](https://www.instagram.com/roynald.ok/)
 - [🐦 Instagram](https://twitter.com/roynaldkalele) 
 
