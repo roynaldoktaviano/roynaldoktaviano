@@ -1,37 +1,100 @@
-# 👋 Hi, I'm Roynald Oktaviano Kalele!
+# 👋 Halo, saya Roynald Oktaviano Kalele!
 
-![Roynald Oktaviano Kalele]
+<p align="center">
+  <img src="URL_GAMBAR_ANDA_DISINI" alt="Roynald Oktaviano Kalele" width="200" height="200" style="border-radius:50%;"/>
+</p>
 
-## About Me
-I'm a passionate **software developer** and **tech enthusiast** with a love for solving problems and building impactful solutions. I specialize in developing **web applications**, crafting seamless user experiences, and exploring the latest technologies.
-
-- 🔭 Currently working on exciting web projects.
-- 🌱 Constantly learning and growing in **JavaScript**, **React**, **Next.js**, and **Node.js**.
-- 💬 Feel free to ask me about **web development**, **project management**, or **tech innovations**.
-- ⚡ Fun Fact: I believe code is poetry, and great code tells a story. 
+<p align="center">
+  <i>"Code is poetry, and great code tells a story."</i> ✨
+</p>
 
 ---
 
-## 💻 My Skills
-Here are some of the technologies and tools I work with:
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Prisma
-- **Database**: PostgreSQL, MySQL
-- **Other Tools**: Git, Docker, Figma
+## 🚀 Tentang Saya
+
+Saya seorang **Software Developer** dan **Tech Enthusiast** yang bersemangat dalam memecahkan masalah dan membangun solusi berdampak. Saya berspesialisasi dalam pengembangan **aplikasi web**, menciptakan pengalaman pengguna yang mulus, dan menjelajahi teknologi terbaru.
+
+- 🔭 Saat ini sedang mengerjakan proyek-proyek web yang menarik.
+- 🌱 Terus belajar dan berkembang dalam **JavaScript**, **React**, **Next.js**, dan **Node.js**.
+- 💬 Jangan ragu untuk bertanya kepada saya tentang **pengembangan web**, **manajemen proyek**, atau **inovasi teknologi**.
+- 📫 Cara menghubungi saya: [roynald.okta@gmail.com](mailto:roynald.okta@gmail.com)
 
 ---
 
-## 📫 How to Reach Me
-You can find me on:
-- [🌐 Portfolio Website](#) (coming soon!)
-- [📧 Email](mailto:roynald.okta@gmail.com)
-- [💼 LinkedIn](https://www.instagram.com/roynald.ok/)
-- [🐦 Instagram](https://twitter.com/roynaldkalele) 
+## 🛠️ Keahlian & Teknologi
+
+Berikut adalah beberapa teknologi dan alat yang saya kuasai:
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Frontend:</strong>
+      <ul>
+        <li>⚛️ React</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="13" height="13" /> Next.js</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="13" height="13" /> TypeScript</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="13" height="13" /> Tailwind CSS</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend:</strong>
+      <ul>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="13" height="13" /> Node.js</li>
+        <li><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="13" height="13" /> Prisma</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Database:</strong>
+      <ul>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="13" height="13" /> PostgreSQL</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="13" height="13" /> MySQL</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Lain-lain:</strong>
+      <ul>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="13" height="13" /> Git</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="13" height="13" /> Docker</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="13" height="13" /> Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
+## 📊 Statistik GitHub Saya (Opsional)
 
-## 🌟 Fun Quote
+---
+
+## 🔗 Mari Terhubung
+
+Anda dapat menemukan saya di:
+
+<p align="left">
+  <a href="URL_LINKEDIN_ANDA_DISINI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/roynald.ok/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/roynaldkalele" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:roynald.okta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <p>🌐 Portfolio Website (Segera Hadir!)</p>
+</p>
+
+---
+
+## 🌟 Kutipan Favorit
+
 > "The best way to predict the future is to create it." – Alan Kay
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. 🚀
+---
+
+Terima kasih sudah berkunjung! Jangan ragu untuk menjelajahi repositori saya dan terhubung dengan saya. 🚀
