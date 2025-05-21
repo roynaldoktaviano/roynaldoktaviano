@@ -65,9 +65,6 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai:
 
 ---
 
-## 📊 Statistik GitHub Saya (Opsional)
-
----
 
 ## 🔗 Mari Terhubung
 
