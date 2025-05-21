@@ -33,7 +33,7 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai:
         <li>⚛️ React</li>
         <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="13" height="13" /> Next.js</li>
         <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="13" height="13" /> TypeScript</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="13" height="13" /> Tailwind CSS</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="13" height="13" /> Tailwind CSS</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -79,9 +79,6 @@ Anda dapat menemukan saya di:
   </a>
   <a href="https://www.instagram.com/roynald.ok/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/roynaldkalele" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:roynald.okta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
