@@ -80,14 +80,17 @@ Anda dapat menemukan saya di:
   <a href="mailto:roynald.okta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <p>🌐 Portfolio Website (Segera Hadir!)</p>
+  <a href="https://roynald.vercel.app/">
+     <p>🌐 Portfolio Website</p>
+  </a>
+ 
 </p>
 
 ---
 
 ## 🌟 Kutipan Favorit
 
-> "The best way to predict the future is to create it." – Alan Kay
+> My approach is rooted in the Japanese concept of Shoshin (初心) — the beginner’s mind that stays open, curious, and willing to learn, no matter the level of experience.
 
 ---
 
