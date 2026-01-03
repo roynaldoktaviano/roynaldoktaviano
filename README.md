@@ -80,7 +80,7 @@ Anda dapat menemukan saya di:
   <a href="mailto:roynald.okta@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://roynald.vercel.app/">
+  <a href="https://roynald.vercel.app/" target="blank">
      <p>🌐 Portfolio Website</p>
   </a>
  
