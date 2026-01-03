@@ -1,7 +1,7 @@
 # 👋 Halo, saya Roynald Oktaviano Kalele!
 
 <p align="center">
-  <img src="URL_GAMBAR_ANDA_DISINI" alt="Roynald Oktaviano Kalele" width="200" height="200" style="border-radius:50%;"/>
+  <img src="http://localhost:3000/profil.png" alt="Roynald Oktaviano Kalele" width="200" height="200" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
